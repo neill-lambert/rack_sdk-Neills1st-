@@ -1,0 +1,25 @@
+{
+  "slug": "Neills1st",
+  "name": "Neills 1st",
+  "version": "2.0.0",
+  "license": "CC0-1.0",
+  "brand": "Neills 1st",
+  "author": "Neillsyard",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyModule",
+      "name": "MyModule",
+      "description": "simple sine oscillator",
+      "tags": [
+        "vco"
+      ]
+    }
+  ]
+}
